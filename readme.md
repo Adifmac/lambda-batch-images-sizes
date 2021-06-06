@@ -9,3 +9,7 @@ m2m = 500x500
 m1m = 300x300 
 
 <!> All resized images are added to the same location as the original image. 
+
+Using https://github.com/jamesacampbell/iptcinfo3 for IPTC processing.
+
+Using pillow for image processing - how to create a layer for aws lambda: https://towardsdatascience.com/python-packages-in-aws-lambda-made-easy-8fbc78520e30
